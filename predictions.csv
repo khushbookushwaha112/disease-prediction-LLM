@@ -1,0 +1,21 @@
+symptoms,actual_disease,predicted_disease
+"skin_rash,  blackheads,  scurring",Acne,No Disease Found
+"skin_rash,  pus_filled_pimples,  blackheads,  scurring",Acne,No Disease Found
+"fatigue,  mood_swings,  weight_loss,  restlessness,  sweating,  diarrhoea,  fast_heart_rate,  excessive_hunger,  muscle_weakness,  irritability,  abnormal_menstruation",Hyperthyroidism,No Disease Found
+"muscle_wasting,  patches_in_throat,  high_fever,  extra_marital_contacts",AIDS,No Disease Found
+"itching,  vomiting,  yellowish_skin,  nausea,  loss_of_appetite,  abdominal_pain,  yellowing_of_eyes",Chronic cholestasis,No Disease Found
+"headache,  chest_pain,  dizziness,  loss_of_balance,  lack_of_concentration",Hypertension,No Disease Found
+"vomiting,  fatigue,  anxiety,  sweating,  headache,  nausea,  blurred_and_distorted_vision,  excessive_hunger,  drying_and_tingling_lips,  slurred_speech,  irritability,  palpitations",Hypoglycemia,No Disease Found
+"muscle_weakness,  stiff_neck,  swelling_joints,  painful_walking",Arthritis,No Disease Found
+"itching,  fatigue,  lethargy,  yellowish_skin,  dark_urine,  loss_of_appetite,  abdominal_pain,  yellow_urine,  yellowing_of_eyes,  malaise,  receiving_blood_transfusion,  receiving_unsterile_injections",Hepatitis B,No Disease Found
+"acidity,  indigestion,  headache,  blurred_and_distorted_vision,  excessive_hunger,  stiff_neck,  depression,  irritability,  visual_disturbances",Migraine,No Disease Found
+"burning_micturition,  bladder_discomfort,  foul_smell_of urine,  continuous_feel_of_urine",Urinary tract infection,No Disease Found
+"fatigue,  weight_loss,  restlessness,  lethargy,  irregular_sugar_level,  blurred_and_distorted_vision,  obesity,  excessive_hunger,  increased_appetite,  polyuria",Diabetes,No Disease Found
+"joint_pain,  vomiting,  fatigue,  yellowish_skin,  dark_urine,  nausea,  loss_of_appetite,  abdominal_pain,  yellowing_of_eyes",Hepatitis D,No Disease Found
+"skin_rash,  joint_pain,  skin_peeling,  small_dents_in_nails,  inflammatory_nails",Psoriasis,No Disease Found
+"vomiting,  yellowish_skin,  abdominal_pain,  swelling_of_stomach,  distention_of_abdomen,  history_of_alcohol_consumption",Alcoholic hepatitis,No Disease Found
+"vomiting,  yellowish_skin,  abdominal_pain,  swelling_of_stomach,  distention_of_abdomen,  history_of_alcohol_consumption,  fluid_overload",Alcoholic hepatitis,No Disease Found
+"constipation,  pain_during_bowel_movements,  pain_in_anal_region,  bloody_stool,  irritation_in_anus",Dimorphic hemmorhoids(piles),No Disease Found
+"joint_pain,  vomiting,  fatigue,  high_fever,  yellowish_skin,  dark_urine,  nausea,  loss_of_appetite,  abdominal_pain,  yellowing_of_eyes,  acute_liver_failure,  coma,  stomach_bleeding",Hepatitis E,No Disease Found
+"fatigue,  weight_loss,  restlessness,  lethargy,  irregular_sugar_level,  blurred_and_distorted_vision,  excessive_hunger,  increased_appetite,  polyuria",Diabetes,No Disease Found
+"back_pain,  weakness_in_limbs,  neck_pain,  dizziness,  loss_of_balance",Cervical spondylosis,No Disease Found
